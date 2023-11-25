@@ -25,6 +25,9 @@ Dette projekt er en fremragende demonstration af mine færdigheder inden for mod
 ![Axios](https://img.shields.io/badge/Axios-%235A29E4?style=flat-square&logo=axios&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%23000000?style=flat-square&logo=json&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=flat-square&logo=vite&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+
 
 
 ### Sådan starter projektet i terminalen
