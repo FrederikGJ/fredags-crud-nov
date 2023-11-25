@@ -13,6 +13,9 @@ Til udviklingen af denne app har jeg anvendt en række moderne teknologier for a
 > - **Axios**: Et kraftfuldt JavaScript-bibliotek brugt til at foretage HTTP-anmodninger til serveren. Det er anvendt til at håndtere dataudvekslingen mellem appen og eventuelle eksterne API'er.
 > - **JSON**: Anvendt som dataformat for udveksling af information mellem klient og server.
 > - **Vite**: Et moderne byggeværktøj, der sikrer hurtig udvikling og en optimeret build-proces.
+> - **CSS**: Anvendt for at style applikationens brugergrænseflade, sikre et tiltalende visuelt udtryk og forbedre brugeroplevelsen.
+> - **HTML**: Grundlaget for applikationens struktur, brugt til at opbygge skelettet i brugergrænsefladen og sikre korrekt semantisk markup.
+
 
 
 Dette projekt er en fremragende demonstration af mine færdigheder inden for moderne webudvikling og understreger min evne til at integrere forskellige teknologier for at skabe en sammenhængende og funktionel applikation.
