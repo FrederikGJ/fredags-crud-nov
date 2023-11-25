@@ -12,7 +12,7 @@
     },
     {
       "name": "Pikachu",
-      "type": "Strøøm",
+      "type": "Electric",
       "id": 3
     },
     {
@@ -29,26 +29,6 @@
       "id": 6,
       "name": "Snorlax",
       "type": "Normal"
-    },
-    {
-      "id": 7,
-      "name": "Mewtwo",
-      "type": "Psychic"
-    },
-    {
-      "name": "Mega Mao",
-      "type": "Leader",
-      "id": 8
-    },
-    {
-      "name": "Connon Ball",
-      "type": "Hero",
-      "id": 9
-    },
-    {
-      "name": "Karma Tao",
-      "type": "Wind",
-      "id": 10
     }
   ]
 }

@@ -22,7 +22,7 @@ const Update = () => {
       try {
         const response = await axios.put(`http://localhost:3011/pokemon/${id}`, { name, type });
         console.log('Pokemon Updated:', response.data);
-        navigate('/'); // Redirect to home page after successful update
+        navigate('/'); // Redirect to home page after updating
       } catch (error) {
         console.error('Error updating Pokemon:', error);
       }
