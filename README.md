@@ -28,8 +28,6 @@ Dette projekt er en fremragende demonstration af mine færdigheder inden for mod
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 
-
-
 ### Sådan starter projektet i terminalen
 
 Hvis man vil starte mock server - cd til src folder:
