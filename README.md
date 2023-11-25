@@ -9,9 +9,13 @@ I dette projekt har jeg udviklet en CRUD-applikation (Create, Read, Update, Dele
 Til udviklingen af denne app har jeg anvendt en række moderne teknologier for at sikre en effektiv og brugervenlig oplevelse. Disse teknologier inkluderer:
 
 > JavaScript: Som grundlaget for applikationen, til at implementere logikken og interaktiviteten.
+
 > React: Et populært JavaScript-bibliotek anvendt for at opbygge brugergrænsefladen, hvilket giver en hurtig og responsiv brugeroplevelse.
+
 > Axios: Et kraftfuldt JavaScript-bibliotek brugt til at foretage HTTP-anmodninger til serveren. Det er anvendt til at håndtere dataudvekslingen mellem appen og eventuelle eksterne API'er.
+
 > JSON: Anvendt som dataformat for udveksling af information mellem klient og server.
+
 > Vite: Et moderne byggeværktøj, der sikrer hurtig udvikling og en optimeret build-proces.
 
 Dette projekt er en fremragende demonstration af mine færdigheder inden for moderne webudvikling og understreger min evne til at integrere forskellige teknologier for at skabe en sammenhængende og funktionel applikation.
