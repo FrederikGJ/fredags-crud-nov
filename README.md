@@ -27,7 +27,7 @@ Dette projekt er en fremragende demonstration af mine færdigheder inden for mod
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=flat-square&logo=vite&logoColor=white)
 
 
-### Når man starter projektet i terminalen
+### Sådan starter projektet i terminalen
 
 Hvis man vil starte mock server - cd til src folder:
 > npx json-server --watch db.json --port 3011
